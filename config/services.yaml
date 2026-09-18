@@ -1,0 +1,70 @@
+- Observability:
+    - Grafana:
+        href: http://100.67.62.26:3000
+        description: Homelab dashboards
+        icon: grafana.png
+
+    - Prometheus:
+        href: http://100.67.62.26:9090
+        description: Metrics and monitoring
+        icon: prometheus.png
+
+    - Netdata:
+        href: http://100.95.142.72:19999
+        description: Real-time host monitoring
+        icon: netdata.png
+
+- Network:
+    - LibreNMS:
+        href: YOUR_LIBRENMS_URL
+        description: Network monitoring
+        icon: librenms.png
+    - Pi-hole:
+        href: http://100.95.142.72/admin
+        description: DNS and network filtering
+        icon: pi-hole.png
+
+    - MikroTik:
+        href: http://192.168.88.1
+        description: Router and network management
+        icon: mikrotik.png
+
+    - Tailscale:
+        href: https://login.tailscale.com/admin/machines
+        description: Homelab mesh network
+        icon: tailscale.png
+
+- Backups & Storage:
+    - Duplicati:
+        href: https://app.duplicati.com/app/machines
+        description: Centralized backup management
+        icon: duplicati.png
+
+    - Databasus:
+        href: http://100.111.153.92:4005
+        description: Database backups
+
+    - MinIO:
+        href: http://100.95.142.72:9001
+        description: Object storage
+        icon: minio.png
+
+- Management:
+    - GitHub:
+        href: https://github.com/lucassimpson0213
+        description: Homelab source and configuration
+        icon: github.png
+    - Semaphore:
+        href: YOUR_SEMAPHORE_URL
+        description: Ansible automation
+        icon: semaphore.png
+
+    - Portainer:
+        href: YOUR_PORTAINER_URL
+        description: Docker management
+        icon: portainer.png
+
+    - Fleet:
+        href: YOUR_FLEET_URL
+        description: Host inventory and discovery
+        icon: fleet.png
