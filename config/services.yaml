@@ -60,7 +60,7 @@
         icon: semaphore.png
 
     - Portainer:
-        href: YOUR_PORTAINER_URL
+        href: https://100.111.153.92:9443
         description: Docker management
         icon: portainer.png
 
@@ -68,3 +68,23 @@
         href: YOUR_FLEET_URL
         description: Host inventory and discovery
         icon: fleet.png
+- Hosts:
+    - Hawk / Raspberry Pi:
+        icon: cockpit.png
+        href: https://100.95.142.72:9095
+        description: Cockpit host management
+
+    - HP Desktop:
+        icon: cockpit.png
+        href: https://100.65.51.13:9095
+        description: Cockpit host management
+
+    - Fedora Lenovo:
+        icon: cockpit.png
+        href: https://100.67.62.26:9095
+        description: Cockpit host management
+
+    - Fedora Mac:
+        icon: cockpit.png
+        href: https://100.111.153.92:9095
+        description: Cockpit host management
