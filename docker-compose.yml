@@ -10,6 +10,6 @@ services:
       - ./config:/app/config
       - /var/run/docker.sock:/var/run/docker.sock:ro
     environment:
-      - HOMEPAGE_ALLOWED_HOSTS=100.65.51.13:3000,192.168.88.248:3000,100.95.142.72:3000,localhost
+      - HOMEPAGE_ALLOWED_HOSTS=100.65.51.13:3000,192.168.88.248:3000,100.95.142.72:3000,localhost,100.88.86.123:3000, 100.114.137.127:3000
       - TZ=America/Chicago
     restart: unless-stopped
