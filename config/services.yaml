@@ -1,3 +1,9 @@
+- Automation:
+    - GithubActions:
+      href: https://github.com/lucassimpson0213/homelab-dashboard/actions
+      description: Homelab Github Actions
+      icon: github.png
+
 - Observability:
     - Grafana:
         href: http://100.67.62.26:3000
@@ -73,10 +79,6 @@
        href: https://vault.bitwarden.com/#/vault
        description: Centralized secrets manager
        icon: bitwarden.png
-    - GithubActions:
-      href: https://github.com/lucassimpson0213/homelab-dashboard/actions
-      description: Homelab Github Actions
-      icon: github.png
 
 
 - Hosts:
