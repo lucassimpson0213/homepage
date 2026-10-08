@@ -52,6 +52,7 @@
     - Databasus:
         href: http://100.111.153.92:4005
         description: Database backups
+        icon: postgres.png
 
     - MinIO:
         href: http://100.95.142.72:9001
@@ -111,10 +112,17 @@
   - Actual Budget:
      href: https://macbook2020.mulley-triggerfish.ts.net/
      ping: https://macbook2020.mulley-triggerfish.ts.net/
+     icon: budget.png
      description: budgeting application
   - Project management:
      href: https://linear.app/lucas-simpson/team/LUC/active
      description: Project management solution
+     icon: linear.png
   - Git Branching:
      href: https://learngitbranching.js.org/?locale=en_US
      description: git branching training
+     icon: git.png
+  - Gmail:
+     href: https://mail.google.com/mail/u/0/
+     icon: gmail.png
+     description: My email account

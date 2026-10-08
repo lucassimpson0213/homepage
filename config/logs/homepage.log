@@ -333,3 +333,26 @@
 [2026-10-07T15:39:09.234Z] error: TypeError: Cannot read properties of null (reading 'forEach')
 [2026-10-07T15:39:14.882Z] error: Failed to load services.yaml, please check for errors
 [2026-10-07T15:39:14.882Z] error: TypeError: Cannot read properties of null (reading 'forEach')
+[2026-10-08T04:21:48.306Z] warn: <service-helpers> Error parsing service "Gmail" from config. Ensure required fields are present.
+[2026-10-08T04:21:48.334Z] warn: <service-helpers> Error parsing service "Gmail" from config. Ensure required fields are present.
+[2026-10-08T04:21:48.346Z] warn: <service-helpers> Error parsing service "Gmail" from config. Ensure required fields are present.
+[2026-10-08T04:21:48.487Z] warn: <service-helpers> Error parsing service "Gmail" from config. Ensure required fields are present.
+[2026-10-08T04:21:48.650Z] warn: <service-helpers> Error parsing service "Gmail" from config. Ensure required fields are present.
+[2026-10-08T04:21:48.715Z] warn: <service-helpers> Error parsing service "Gmail" from config. Ensure required fields are present.
+[2026-10-08T04:21:49.520Z] warn: <service-helpers> Error parsing service "Gmail" from config. Ensure required fields are present.
+[2026-10-08T04:21:49.536Z] warn: <service-helpers> Error parsing service "Gmail" from config. Ensure required fields are present.
+[2026-10-08T04:21:49.918Z] warn: <service-helpers> Error parsing service "Gmail" from config. Ensure required fields are present.
+[2026-10-08T04:21:49.938Z] warn: <service-helpers> Error parsing service "Gmail" from config. Ensure required fields are present.
+[2026-10-08T04:21:50.992Z] warn: <service-helpers> Error parsing service "Gmail" from config. Ensure required fields are present.
+[2026-10-08T04:21:51.003Z] warn: <service-helpers> Error parsing service "Gmail" from config. Ensure required fields are present.
+[2026-10-08T04:21:51.015Z] warn: <service-helpers> Error parsing service "Gmail" from config. Ensure required fields are present.
+[2026-10-08T04:21:51.030Z] warn: <service-helpers> Error parsing service "Gmail" from config. Ensure required fields are present.
+[2026-10-08T04:21:51.041Z] warn: <service-helpers> Error parsing service "Gmail" from config. Ensure required fields are present.
+[2026-10-08T04:21:51.249Z] warn: <service-helpers> Error parsing service "Gmail" from config. Ensure required fields are present.
+[2026-10-08T04:21:51.260Z] warn: <service-helpers> Error parsing service "Gmail" from config. Ensure required fields are present.
+[2026-10-08T04:21:51.270Z] warn: <service-helpers> Error parsing service "Gmail" from config. Ensure required fields are present.
+[2026-10-08T04:21:51.278Z] warn: <service-helpers> Error parsing service "Gmail" from config. Ensure required fields are present.
+[2026-10-08T04:21:51.292Z] warn: <service-helpers> Error parsing service "Gmail" from config. Ensure required fields are present.
+[2026-10-08T04:21:51.452Z] warn: <service-helpers> Error parsing service "Gmail" from config. Ensure required fields are present.
+[2026-10-08T04:21:51.484Z] warn: <service-helpers> Error parsing service "Gmail" from config. Ensure required fields are present.
+[2026-10-08T04:21:51.531Z] warn: <service-helpers> Error parsing service "Gmail" from config. Ensure required fields are present.
