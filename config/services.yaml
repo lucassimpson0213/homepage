@@ -1,8 +1,8 @@
 - Automation:
     - GithubActions:
-      href: https://github.com/lucassimpson0213/homelab-dashboard/actions
-      description: Homelab Github Actions
-      icon: github.png
+        href: https://github.com/lucassimpson0213/homelab-dashboard/actions
+        description: Homelab Github Actions
+        icon: github.png
 
 - Observability:
     - Grafana:
@@ -112,3 +112,9 @@
      href: https://macbook2020.mulley-triggerfish.ts.net/
      ping: https://macbook2020.mulley-triggerfish.ts.net/
      description: budgeting application
+  - Project management:
+     href: https://linear.app/lucas-simpson/team/LUC/active
+     description: Project management solution
+  - Git Branching:
+     href: https://learngitbranching.js.org/?locale=en_US
+     description: git branching training
