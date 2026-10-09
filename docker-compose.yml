@@ -18,7 +18,9 @@ services:
     ports:
       - "8200:8200"
     volumes:
-      - ./data:/data
+      - /data:/data
+      - /home:/home
+      - /srv:/srv
     environment:
       # SETTINGS_ENCRYPTION_KEY: "<real encryption key>"
       DUPLICATI__WEBSERVICE_PASSWORD: "JsRules44"
