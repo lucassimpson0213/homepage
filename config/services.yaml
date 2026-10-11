@@ -167,11 +167,10 @@
         description: Project management
         icon: linear.png
 
-    - Actual Budget:
-        href: https://macbook2020.mulley-triggerfish.ts.net/
-        ping: https://macbook2020.mulley-triggerfish.ts.net/
+    - Monarch:
+        href: https://app.monarch.com/dashboard
         description: Personal budgeting
-        icon: budget.png
+        icon: monarch.png
 
     - Gmail:
         href: https://mail.google.com/mail/u/0/
