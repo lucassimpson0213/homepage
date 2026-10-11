@@ -181,4 +181,7 @@
         href: https://vault.bitwarden.com/#/vault
         description: Password and secrets management
         icon: bitwarden.png
+    - Walmart orders:
+       href: https://www.walmart.com/orders
+       description: walmart orders
 
