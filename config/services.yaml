@@ -109,11 +109,10 @@
         description: Centralized backup management
         icon: duplicati.png
 
-    - Fedora Duplicati:
-        href: http://100.111.153.92:8200
-        description: Duplicati on Fedora Mac
-        icon: duplicati.png
-
+    - Backblaze B2:
+      href: https://secure.backblaze.com/b2_buckets.htm
+      description: object storage
+      icon: backblaze.png
     - Google Drive:
         href: https://drive.google.com/drive/my-drive
         description: Duplicati backups
@@ -181,8 +180,4 @@
         href: https://vault.bitwarden.com/#/vault
         description: Password and secrets management
         icon: bitwarden.png
-    - Walmart orders:
-       href: https://www.walmart.com/orders
-       description: walmart orders
-       icon: https://commons.wikimedia.org/wiki/File:Walmart_App_icon_%282025%29.svg
 
