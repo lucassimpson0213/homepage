@@ -29,8 +29,8 @@
 - Hosts:
     - Hawk / Raspberry Pi:
         icon: cockpit.png
-        href: https://100.95.142.72:9095
-        ping: https://100.95.142.72:9095
+        href: https://100.91.64.96:9090
+        ping: https://100.91.64.96:9090
         description: Cockpit host management
 
     - HP Desktop:
@@ -123,11 +123,6 @@
         description: Database backups
         icon: postgres.png
 
-    - MinIO:
-        href: http://100.95.142.72:9001
-        ping: http://100.95.142.72:9001
-        description: Object storage
-        icon: minio.png
 
 
 # ==========================================
